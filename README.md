@@ -110,7 +110,12 @@ Make sure you follow coding best practices and include tests for new functionali
 
 ![alt text](<Captura de pantalla 2024-11-27 a las 22.11.59.png>)
 
-### 1. Clone the Repository
+## License 
+This project is under the MIT license.
+
+## Author: Catalina Baquerizo Lucero.
+
+### Clone the Repository
 ```bash
 git clone <repository-url>
 cd <project-name>
