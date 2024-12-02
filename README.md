@@ -99,16 +99,17 @@ Both middlewares are located in the middleware/authentication.js file.
 
 Contributions are welcome. If you want to contribute to this project, follow these steps:
 
-Fork the repository.
-Create a new branch for your contribution (git checkout -b my-new-feature).
-Make your changes and commit (git commit -am 'Add new functionality').
-Upload your changes to your repository (git push origin my-new-feature).
-Open a pull request describing the changes you have made.
+1- Fork the repository.
+2- Create a new branch for your contribution (git checkout -b my-new-feature).
+3- Make your changes and commit (git commit -am 'Add new functionality').
+4- Upload your changes to your repository (git push origin my-new-feature).
+5- Open a pull request describing the changes you have made.
+
 Make sure you follow coding best practices and include tests for new functionality.
 
 ## Entity-relationship diagram (ERD)
+<img width="1128" alt="Captura de pantalla 2024-12-01 a las 17 45 27" src="https://github.com/user-attachments/assets/32eedcb4-c378-49dd-96c0-99cf92c911fc">
 
-![alt text](<Captura de pantalla 2024-11-27 a las 22.11.59.png>)
 
 ## License 
 This project is under the MIT license.
