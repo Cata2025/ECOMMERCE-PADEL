@@ -12,7 +12,7 @@ This API provides functionalities for user registration, authentication, and man
 - Validations at both model and controller levels.
 
 
-### Characteristics:
+### Characteristics
 - Roles (administrator and user).
 - Routes protected with authentication middlewares.
 - Advanced filters for products (by price, name, categories, etc.).
@@ -87,7 +87,7 @@ This API provides functionalities for user registration, authentication, and man
 
 ---
 
-## Middleware:
+## Middleware
 
 This project includes some custom middlewares that help in user authentication and authorization.
 
@@ -95,7 +95,7 @@ authentication: This middleware ensures that the user is authenticated. Checks t
 isAdmin: This middleware checks whether the authenticated user has administrator permissions, which is required for some operations, such as creating and updating products.
 Both middlewares are located in the middleware/authentication.js file.
 
-## Contribution:
+## Contribution
 
 Contributions are welcome. If you want to contribute to this project, follow these steps:
 
@@ -114,7 +114,7 @@ Make sure you follow coding best practices and include tests for new functionali
 ## License 
 This project is under the MIT license.
 
-## Author: Catalina Baquerizo Lucero.
+### Author: Catalina Baquerizo Lucero.
 
 ### Clone the Repository
 ```bash
