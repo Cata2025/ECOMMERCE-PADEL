@@ -119,10 +119,3 @@ This project is under the MIT license.
 ```bash
 git clone <repository-url>
 cd <project-name>
-
-
-
-## License 
-This project is under the MIT license.
-
-## Author: Catalina Baquerizo Lucero.
