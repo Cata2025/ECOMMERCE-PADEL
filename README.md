@@ -87,7 +87,24 @@ This API provides functionalities for user registration, authentication, and man
 
 ---
 
-## Instructions to Run the Project:
+## Middleware:
+
+This project includes some custom middlewares that help in user authentication and authorization.
+
+authentication: This middleware ensures that the user is authenticated. Checks the JWT token in requests to ensure that only authenticated users can access certain routes.
+isAdmin: This middleware checks whether the authenticated user has administrator permissions, which is required for some operations, such as creating and updating products.
+Both middlewares are located in the middleware/authentication.js file.
+
+## Contribution:
+
+Contributions are welcome. If you want to contribute to this project, follow these steps:
+
+Fork the repository.
+Create a new branch for your contribution (git checkout -b my-new-feature).
+Make your changes and commit (git commit -am 'Add new functionality').
+Upload your changes to your repository (git push origin my-new-feature).
+Open a pull request describing the changes you have made.
+Make sure you follow coding best practices and include tests for new functionality.
 
 ## Entity-relationship diagram (ERD)
 
