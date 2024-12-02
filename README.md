@@ -114,3 +114,10 @@ Make sure you follow coding best practices and include tests for new functionali
 ```bash
 git clone <repository-url>
 cd <project-name>
+
+
+
+## License 
+This project is under the MIT license.
+
+## Author: Catalina Baquerizo Lucero.
