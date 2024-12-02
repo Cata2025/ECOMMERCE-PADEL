@@ -11,6 +11,12 @@ This API provides functionalities for user registration, authentication, and man
 - Use of seeders to initialize data.
 - Validations at both model and controller levels.
 
+
+### Characteristics:
+- Roles (administrator and user).
+- Routes protected with authentication middlewares.
+- Advanced filters for products (by price, name, categories, etc.).
+
 ---
 
 ## Technologies Used
